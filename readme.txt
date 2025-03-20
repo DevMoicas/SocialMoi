@@ -7,6 +7,8 @@ and if you want to review the styles, take a look at style.css.
 
 4. I created this project as a way to practice and improve my skills. However, there are other similar tools available, like Linktree.
 
+5. For this app, i used the API from instagram in meta developers.
+
 
 
 
